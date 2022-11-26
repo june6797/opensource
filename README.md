@@ -1,2 +1,2 @@
 # opensource
-* using scikitlearn
+* using scikit-learn
